@@ -81,9 +81,9 @@ Power BI dashboard includes:
   
 ## Images
 
-![CarePulse Architecture](images/architecture_diagram.png)
+![CarePulse Architecture](./images/architecture.png)
 
-![Real-time streaming: producers and consumers](images/real-time-streaming.png)
+![Real-time streaming: producers and consumers](./images/real-time-streaming.png)
 
 ## 📝 Author
 Madhur Dixit
